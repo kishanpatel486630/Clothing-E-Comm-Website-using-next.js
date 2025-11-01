@@ -1,0 +1,64 @@
+{
+  "placeholderImages": [
+    {
+      "id": "product-1-1",
+      "description": "Elegant evening dress, first view",
+      "imageUrl": "https://images.unsplash.com/photo-1495385794356-15371f348c31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8d29tYW4lMjBkcmVzc3xlbnwwfHx8fDE3NjE5MDQ5ODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman dress"
+    },
+    {
+      "id": "product-1-2",
+      "description": "Elegant evening dress, second view",
+      "imageUrl": "https://images.unsplash.com/photo-1619785292559-a15caa28bde6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxmYXNoaW9uJTIwbW9kZWx8ZW58MHx8fHwxNzYxOTk4ODU0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fashion model"
+    },
+    {
+      "id": "product-2-1",
+      "description": "Casual summer shirt",
+      "imageUrl": "https://images.unsplash.com/photo-1740711152088-88a009e877bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYW4lMjBzaGlydHxlbnwwfHx8fDE3NjIwMTQ3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man shirt"
+    },
+    {
+      "id": "product-3-1",
+      "description": "Leather ankle boots",
+      "imageUrl": "https://images.unsplash.com/photo-1639270602686-3c45cec05918?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bGVhdGhlciUyMGJvb3RzfGVufDB8fHx8MTc2MTkyNjgwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "leather boots"
+    },
+    {
+      "id": "product-4-1",
+      "description": "High-waisted denim jeans",
+      "imageUrl": "https://images.unsplash.com/photo-1560243563-062bfc001d68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxkZW5pbSUyMGplYW5zfGVufDB8fHx8MTc2MTk0OTEzNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "denim jeans"
+    },
+    {
+      "id": "product-5-1",
+      "description": "Classic trench coat",
+      "imageUrl": "https://images.unsplash.com/photo-1573545289441-827c028f7a3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx0cmVuY2glMjBjb2F0fGVufDB8fHx8MTc2MTk2ODkyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "trench coat"
+    },
+    {
+      "id": "product-6-1",
+      "description": "Silk floral blouse",
+      "imageUrl": "https://images.unsplash.com/photo-1761121317492-57feee4fc674?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8d29tYW4lMjBibG91c2V8ZW58MHx8fHwxNzYyMDE0NzUwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman blouse"
+    },
+    {
+      "id": "product-7-1",
+      "description": "Men's tailored suit",
+      "imageUrl": "https://images.unsplash.com/photo-1560250097-0b93528c311a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYW4lMjBzdWl0fGVufDB8fHx8MTc2MjAxNDc1MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man suit"
+    },
+    {
+      "id": "product-8-1",
+      "description": "Cozy knit sweater",
+      "imageUrl": "https://images.unsplash.com/photo-1631541909061-71e349d1f203?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxrbml0JTIwc3dlYXRlcnxlbnwwfHx8fDE3NjE5MzAxOTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "knit sweater"
+    },
+    {
+      "id": "product-9-1",
+      "description": "Pleated midi skirt",
+      "imageUrl": "https://images.unsplash.com/photo-1706007989535-ee0288b8a695?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx3b21hbiUyMHNraXJ0fGVufDB8fHx8MTc2MTk5MjQ1NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman skirt"
+    }
+  ]
+}
